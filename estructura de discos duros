@@ -1,0 +1,18 @@
+COMO SE DIVIDE UN DISCO DURO
+Un disco duro es un dispositivo utilizado por el ordenador para almacenar datos durante un tiempo largo. Los discos duros pertenecen a la llamada memoria secundaria, aunque su apariencia externa sea de una caja rectangular en el interior hay varios elementos como los discos metálicos que giran a gran velocidad, cabezas de lectura/escritura, el motor, etc. Los discos duros están compuestos por una estructura física y lógica, respecto a la estructura física se refiere a como está compuesto interiormente un disco duro, es decir, las piezas o componentes que la conforman como los platos, las cabezas de lectura/escritura, el impulsor de cabezal, las pistas, los sectores, etc. los cuales se ve su relación, en cuanto a número, de cada uno de estos componentes o piezas en la geometría de un disco duro. Con respecto a la estructura lógica está formada por el sector de arranque, la FAT (Tabla de asignación de ficheros), el directorio raíz y la zona de datos para archivos y subdirectorios.
+ESTRUCTURA FÍSICA DE UN DISCO DURO:
+El disco duro está compuesto por las siguientes estructuras:
+Platos:
+También llamados discos. Estos discos están elaborados de aluminio o vidrio recubiertos en su superficie por un material ferro magnético apilados alrededor de un eje que gira gracias a un motor, a una velocidad muy rápida. El diámetro de los platos oscila entre los 5cm y 13 cm.
+Cabezal de lectura/escritura:
+Es la parte del disco duro que lee y escribe los datos del disco. La mayoría de los discos duros incluyen una cabeza de lectura/escritura a cada lado del plato o disco, pero hay algunos discos de alto desempeño tienen dos o más cabezas sobre cada que tienen dos o más cabezas sobre cada superficie esto de manera que cada cabeza atienda la mitad del disco reduciendo la distancia del desplazamiento radial.
+Impulsor de Cabezal:
+Es un motor que mueve los cabezales sobre el disco hasta llegar a la pista adecuada, donde esperan que los sectores correspondientes giren bajo ellos para ejecutar de manera efectiva la lectura/escritura.
+Pistas:
+La superficie de un disco está dividida en unos elementos llamadas pistas concéntricas, donde se almacena la información. Las pistas están numeradas desde la parte exterior comenzando por el 0. Las cabezas se mueven entre la pista 0 a la pista más interna.
+Cilindro:
+Es el conjunto de pistas concéntricas de cada cara de cada plato, los cuales están situadas unas encima de las otras. Lo que se logra con esto es que la cabeza no tiene que moverse para poder acceder a las diferentes pistas de un mismo cilindro. Dado que las cabezas de lectura/escritura están alineadas unas con otras, la controladora de disco duro puede escribir en todas las pistas del cilindro sin mover el rotor. Cada pista está formada por uno o más clúster.
+Sector:
+Las pistas están divididas en sectores, el número de sectores es variable. Un sector es la unidad básica de almacenamiento de datos sobre los discos duros. Los discos duros almacenan los datos en pedazos gruesos llamados sectores, la mayoría de los discos duros usan sectores de 512 bytes cada uno. Comúnmente es la controladora del disco duro quien determina el tamaño de un sector en el momento en que el disco es formateado, en cambio en algunos modelos de disco duro se permite especificar el tamaño de un sector.
+
+
